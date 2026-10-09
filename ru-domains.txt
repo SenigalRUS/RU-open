@@ -1,1 +1,23 @@
+# RU-open
+# One domain per line.
+# Comments start with #.
+# Subdomains are matched automatically by the RU VPS updater.
 
+# Yandex
+yandex.ru
+ya.ru
+yandex.net
+yastatic.net
+
+# Avito
+avito.ru
+avito.st
+
+# Sber
+sber.ru
+sberbank.ru
+online.sberbank.ru
+
+# Government services
+gosuslugi.ru
+nalog.gov.ru
