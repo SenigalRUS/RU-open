@@ -4,10 +4,13 @@
 # Subdomains are matched automatically by the RU VPS updater.
 
 # Yandex
+yandex.cloud
+yandexcloud.net
 yandex.ru
 ya.ru
 yandex.net
 yastatic.net
+yandex.st
 
 # Avito
 avito.ru
