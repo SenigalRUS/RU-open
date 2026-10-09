@@ -1,1 +1,7 @@
-
+# RU-open static IPv4 networks
+# One IPv4 address or CIDR per line.
+# Use only when domain-based routing is insufficient.
+#
+# Examples:
+# 203.0.113.15/32
+# 198.51.100.0/24
